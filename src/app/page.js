@@ -21,7 +21,7 @@ export default function Home() {
             
           </li>
           <Link href="/nicho"> Ingresar </Link>
-          
+          <Link href="/indesa"> index </Link>
           <li></li>
           <Link href="/inicio">inicios</Link>
         </ol>
