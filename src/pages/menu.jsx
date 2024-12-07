@@ -16,11 +16,20 @@ const menu = () => {
           priority
         />
           </Link>
-
-
         </li>
         <li>
-          <Link href="/produccionDeLeche">Producción de Leche</Link>
+          <Link href="/produccionDeLeche">
+          <Image
+          className="dark:invert"
+          src="/produccion.png"
+          alt="reproduccion"
+          width={100}
+          height={100}
+          priority
+        />
+          
+          
+          </Link>
         </li>
         <li>
           <Link href="/inventario">Inventario</Link>
