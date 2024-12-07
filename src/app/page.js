@@ -18,9 +18,9 @@ export default function Home() {
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
               src/app/page.js
             </code>
-            .
+            
           </li>
-          <Link href="/src/pages/inicio.jsx">inicio1</Link>
+          <Link href="/nicho">nicho</Link>
           <li>Save and see your changes instantly.</li>
           <Link href="/inicio">inicios</Link>
         </ol>
