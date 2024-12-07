@@ -14,15 +14,15 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
-            Get started by editing{" "}
+            {" "}
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              src/app/page.js
+              
             </code>
             
           </li>
           <Link href="/nicho"> Ingresar </Link>
           <Link href="/indesa"> index </Link>
-          <li></li>
+          
           <Link href="/inicio">inicios</Link>
         </ol>
 
@@ -66,7 +66,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Learn
+         
         </a>
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
@@ -81,7 +81,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Examples
+          
         </a>
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
@@ -96,7 +96,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Go to nextjs.org →
+          
         </a>
       </footer>
     </div>
