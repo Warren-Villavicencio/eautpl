@@ -32,13 +32,46 @@ const menu = () => {
           </Link>
         </li>
         <li>
-          <Link href="/inventario">Inventario</Link>
+          <Link href="/inventario">
+          <Image
+          className="dark:invert"
+          src="/inventario.png"
+          alt="reproduccion"
+          width={100}
+          height={100}
+          priority
+        />
+          
+          </Link>
         </li>
         <li>
-          <Link href="/salud">Salud</Link>
+          <Link href="/salud">
+          <Image
+          className="dark:invert"
+          src="/salud.png"
+          alt="reproduccion"
+          width={100}
+          height={100}
+          priority
+        />
+          
+          
+          </Link>
         </li>
         <li>
-          <Link href="/alimentacion">alimentacion</Link>
+          <Link href="/alimentacion">
+          
+          <Image
+          className="dark:invert"
+          src="/alimentacion.png"
+          alt="reproduccion"
+          width={100}
+          height={100}
+          priority
+        />
+          
+          
+          </Link>
         </li>
       </ul>
     </nav>
