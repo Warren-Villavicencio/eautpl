@@ -17,7 +17,7 @@ const menu = () => {
           <Link href="/salud">Salud</Link>
         </li>
         <li>
-          <Link href="/alimentacion">Alimentación</Link>
+          <Link href="/alimentacion">alimentacion</Link>
         </li>
       </ul>
     </nav>
