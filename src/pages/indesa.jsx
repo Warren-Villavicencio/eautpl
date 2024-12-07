@@ -1,4 +1,5 @@
 import Menu from './menu';
+import './estilos.css';
 
 const indesa = () => {
   return (

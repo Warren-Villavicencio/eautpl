@@ -1,4 +1,4 @@
-
+import './estilos.css';
 const salud = () => {
     return (
       <div>
