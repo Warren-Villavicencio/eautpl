@@ -1,4 +1,4 @@
-// pages/about.js
+
 const salud = () => {
     return (
       <div>
