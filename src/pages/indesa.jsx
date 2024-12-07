@@ -1,6 +1,6 @@
 import Menu from './menu';
 
-const inicio = () => {
+const indesa = () => {
   return (
     <div>
       <h1>menu principal</h1>
@@ -9,4 +9,4 @@ const inicio = () => {
   );
 };
 
-export default inicio;
+export default indesa;

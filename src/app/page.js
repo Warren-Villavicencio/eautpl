@@ -17,7 +17,7 @@ export default function Home() {
       </main>
 
       <h1>ESTACIÓN AGROPECUARIA UTPL</h1>
-      <Link href="/inicio"> <h1> INGRESAR </h1>  </Link>
+      <Link href="/indesa"> <h1> INGRESAR </h1>  </Link>
      
     </div>
   );
