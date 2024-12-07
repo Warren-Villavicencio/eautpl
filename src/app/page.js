@@ -20,7 +20,7 @@ export default function Home() {
             </code>
             .
           </li>
-          
+          <Link href="/src/pages/inicio.jsx">inicio1</Link>
           <li>Save and see your changes instantly.</li>
           <Link href="/inicio">inicios</Link>
         </ol>
