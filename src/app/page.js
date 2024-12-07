@@ -13,17 +13,11 @@ export default function Home() {
           priority
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">
-            
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              
-            </code>
-            
-          </li>
-          <Link href="/nicho"> Ingresar </Link>
-          <Link href="/indesa"> index </Link>
+         
           
-          <Link href="/inicio">inicios</Link>
+          <Link href="/indesa"> <h1> Ingresar</h1>  </Link>
+          
+          
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
