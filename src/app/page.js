@@ -13,13 +13,11 @@ export default function Home() {
           height={38}
           priority
         />
-        <h1>ESTACIÓN AGROPECUARIA UTPL</h1>
-        <Link href="/indesa"> <h1> Ingresar</h1>  </Link>
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-         
-          
-        </div>
+  
       </main>
+
+      <h1>ESTACIÓN AGROPECUARIA UTPL</h1>
+      <Link href="/indesa"> <h1> Ingresar</h1>  </Link>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
