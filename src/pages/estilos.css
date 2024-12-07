@@ -1,9 +1,10 @@
 h1 {
-    color: #29099e; /* Un tono de rosa llamativo */
+    color: #cdc4ee; /* Un tono de rosa llamativo */
     
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 2rem;
     text-shadow: 2px 2px 4px #000;
+    text-align: center;
   }
 
   body {
