@@ -1,6 +1,7 @@
 h1 {
-    color: #ff69b4; /* Un tono de rosa llamativo */
-    font-family: 'Roboto', cursive;
+    color: #1e0675; /* Un tono de rosa llamativo */
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 2rem;
     text-shadow: 2px 2px 4px #000;
   }
