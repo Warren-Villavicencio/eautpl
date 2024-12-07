@@ -3,7 +3,7 @@ import Menu from './menu';
 const inicio = () => {
   return (
     <div>
-      <h1>Bienvenido a la aplicación de granja</h1>
+      <h1>menu principal</h1>
       <Menu />
     </div>
   );
