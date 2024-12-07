@@ -1,13 +1,11 @@
-import Link from "next/link";
+import Menu from './menu';
 
 const inicio = () => {
   return (
-    <>
-      <div><h1>Estacion Agropecuaria UTPL</h1></div>
-      
-
-      <Link href="ingreso_animal">Ir a mi 3</Link>
-    </>
+    <div>
+      <h1>Bienvenido a la aplicación de granja</h1>
+      <Menu />
+    </div>
   );
 };
 
