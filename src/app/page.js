@@ -20,7 +20,7 @@ export default function Home() {
             </code>
             .
           </li>
-          <Link href="nicho">nicho</Link>
+          
           <li>Save and see your changes instantly.</li>
           <Link href="/inicio">inicio</Link>
         </ol>
