@@ -3,7 +3,7 @@
 const nicho = () => {
   return (
    
-      <div><h1>Estacion Agropecuaria UTPL</h1></div>
+      <div><h1>Estacion Agropecuaria UTPL funcina con pages</h1></div>
       
    
   );

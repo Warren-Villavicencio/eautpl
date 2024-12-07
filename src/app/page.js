@@ -20,7 +20,7 @@ export default function Home() {
             </code>
             
           </li>
-          <Link href="/nicho">nichos   </Link>
+          <Link href="/nicho">nichossss   </Link>
           <Link href="./nicho.jsx">nichos</Link>
           <li>Save and see your changes instantly.</li>
           <Link href="/inicio">inicios</Link>
