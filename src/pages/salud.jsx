@@ -9,13 +9,13 @@ const Salud = () => {
         <p>Fecha de Revisión: 20/05/2024</p>
         <p>Veterinario: Dr. Martínez</p>
       </div>
-      <h3>Vacunaciones</h3>
+      <h2>Vacunaciones</h2>
       <ul>
-        <li>Brucelosis: 15/05/2024</li>
+        <lo>Brucelosis: 15/05/2024</lo>
       </ul>
-      <h3>Desparasitaciones</h3>
+      <h2>Desparasitaciones</h2>
       <ul>
-        <li>Ivermectina: 20/05/2024</li>
+        <lo>Ivermectina: 20/05/2024</lo>
       </ul>
     </div>
   );
