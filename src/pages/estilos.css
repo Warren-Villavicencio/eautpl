@@ -40,12 +40,13 @@ ul {
   color: #cdc4ee; 
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
+  
  }
 
  div {
   width: 500px;
   margin: 6 auto;
-  
+ 
 padding-bottom: 0%;
   border-radius: 30px;
   background-color: #0f81cd;
