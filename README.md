@@ -16,15 +16,20 @@ nformación de la aplicación objetivo
 
 El objetivo principal es transformar la Estación Agropecuaria UTPL en una empresa digital integral. Para lograr ello, es indispensable desarrollar una aplicación nativa en la nube que actúe como el corazón de todas las operaciones.
 
-Toda la información que se recolecta de la estación agropecuaria UTPL se obtendrá por medio de sensores, tanto para el ganado como para los dispositivos. Se utilizará en el ordeño, evitando así el ingreso manual de información.
+Toda la información que se recolecta de la estación agropecuaria UTPL se obtendrá por medio de sensores, tanto para el ganado como para los dispositivos que se utilizan en el ordeño, evitando así el ingreso manual de información.
 
 Se ha desarrollado una interfaz completa para dispositivos móviles. Todas las operaciones de la estación se resumen en 5 módulos:
 
 Módulo de Reproducción
+
 Módulo de Producción de Leche
+
 Módulo de Salud
+
 Módulo de Inventario
+
 Módulo de Alimentación
+
 En la presente tarea, se ha desarrollado la interfaz del usuario, la cual permite acceder a todos los módulos de la aplicación.
 
 
