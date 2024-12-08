@@ -39,3 +39,28 @@ ul {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
  }
+
+ div {
+  width: 500px;
+  margin: 6 auto;
+  padding: 5px;
+  border: 1px solid #28a745;
+  border-radius: 5px;
+  background-color: #0f81cd;
+}
+
+
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #218838;
+}
