@@ -3,6 +3,7 @@ Proyecto:EAUTPL(Estación Agropecuaria UTPL)
 
 
 Se adjunta el mapa de capacidades de la Estación Agropecuaria UTPL.
+
 ![image](https://github.com/user-attachments/assets/8e056259-b9c8-44b4-a771-b9c85e49d8a2)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
