@@ -46,8 +46,8 @@ ul {
  div {
   width: 500px;
   margin: 6 auto;
- 
-padding-bottom: 0%;
+  align-content: center;
+  padding-bottom: 0%;
   border-radius: 30px;
   background-color: #0f81cd;
 }

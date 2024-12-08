@@ -2,9 +2,9 @@ import './estilos.css';
 
 const Alimentacion = () => {
   return (
-    <div className="alimentacion-container">
+    <div>
       <h2>Alimentación</h2>
-      <div className="info-container">
+      <div>
         <p>Número de Identificación: 00123</p>
         <p>Tipo de Alimento: Forraje</p>
         <p>Cantidad Diaria: 20 KG</p>
