@@ -1,5 +1,5 @@
 h1 {
-    color: #cdc4ee; /* Un tono de rosa llamativo */
+    color: #cdc4ee; 
     
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 2rem;
@@ -8,6 +8,7 @@ h1 {
   }
 
   h2 {
+    color: #cdc4ee; 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
 
@@ -27,13 +28,14 @@ align-items: center;
   }
 
 ul {
-
+  color: #cdc4ee; 
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
  }
 
 
  p {
+  color: #cdc4ee; 
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
  }
