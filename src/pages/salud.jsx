@@ -3,7 +3,7 @@ import './estilos.css';
 const Salud = () => {
   return (
     <div className="salud-container">
-      <h2>Historia Clínica</h2>
+      <h1>Historia Clínica</h1>
       <div className="info-container">
         <p>Número de Identificación: 00123</p>
         <p>Fecha de Revisión: 20/05/2024</p>
