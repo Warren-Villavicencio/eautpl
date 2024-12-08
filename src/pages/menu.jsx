@@ -3,8 +3,8 @@ import Image from "next/image";
 
 const Menu = () => {
   return (
-    <nav className="flex justify-center items-center w-full">
-      <ul className="flex space-x-4 justify-center items-center">
+    <nav>
+      <ul>
         <ol>
           <Link href="/reproduccion">
             <Image
