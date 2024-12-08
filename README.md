@@ -35,6 +35,23 @@ Módulo de Alimentación
 
 En la presente tarea, se ha desarrollado la interfaz del usuario, la cual permite acceder a todos los módulos de la aplicación.
 
+Guía de instalación y ejecución del proyecto EAUTPL
+Clonación del repositorio:
+1.	Abre tu terminal o línea de comandos.
+2.	Ejecuta el siguiente comando:
+3.	git clone https://github.com/Warren-Villavicencio/eautpl.git 
+4.	 Este comando descargará todo el código del proyecto desde GitHub y lo guardará en una nueva carpeta llamada "eautpl" en tu directorio actual.
+Instalación de dependencias:
+1.	Accede al directorio del proyecto:
+2.	cd eautpl 
+3.	Instala las dependencias del proyecto:
+4.	npm install
+5.	 Este comando descargará e instalará todas las librerías y paquetes necesarios para que el proyecto funcione correctamente.
+Ejecución del servidor de desarrollo:
+1.	Inicia el servidor de desarrollo:
+2.	npm run dev
+3.	 Este comando iniciará un servidor local que te permitirá ver tu proyecto en un navegador web. Por lo general, el servidor se ejecutará en la dirección http://localhost:3000/ o similar. Abre esta URL en tu navegador para ver la aplicación.
+
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
