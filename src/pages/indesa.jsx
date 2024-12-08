@@ -5,7 +5,7 @@ import Menu from './menu';
 
 const indesa = () => {
   return (
-    <div class="flex justify-center items-center">
+    <div>
       <div>
         <h1>EAUTPL</h1>
         <Menu />
