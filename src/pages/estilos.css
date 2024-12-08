@@ -11,11 +11,13 @@ h1 {
     color: #cdc4ee; 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
+    text-shadow: 2px 2px 4px #000;
+    font-size: 1rem;
 
   }
   body {
 color: #000;
-background-color: #149aa4;
+background-color: #245fe7;
   }
 
   link {
@@ -43,9 +45,9 @@ ul {
  div {
   width: 500px;
   margin: 6 auto;
-  padding: 5px;
-  border: 1px solid #28a745;
-  border-radius: 5px;
+  
+padding-bottom: 0%;
+  border-radius: 30px;
   background-color: #0f81cd;
 }
 
