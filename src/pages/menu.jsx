@@ -5,7 +5,7 @@ const Menu = () => {
   return (
     <nav className="flex justify-center items-center w-full">
       <ul className="flex space-x-4 justify-center items-center">
-        <li>
+        <ol>
           <Link href="/reproduccion">
             <Image
               className="dark:invert"
@@ -16,8 +16,8 @@ const Menu = () => {
               priority
             />
           </Link>
-        </li>
-        <li>
+        </ol>
+        <ol>
           <Link href="/produccionDeLeche">
             <Image
               className="dark:invert"
@@ -28,8 +28,8 @@ const Menu = () => {
               priority
             />
           </Link>
-        </li>
-        <li>
+        </ol>
+        <ol>
           <Link href="/inventario">
             <Image
               className="dark:invert"
@@ -40,8 +40,8 @@ const Menu = () => {
               priority
             />
           </Link>
-        </li>
-        <li>
+        </ol>
+        <ol>
           <Link href="/salud">
             <Image
               className="dark:invert"
@@ -52,8 +52,8 @@ const Menu = () => {
               priority
             />
           </Link>
-        </li>
-        <li>
+        </ol>
+        <ol>
           <Link href="/alimentacion">
             <Image
               className="dark:invert"
@@ -64,7 +64,7 @@ const Menu = () => {
               priority
             />
           </Link>
-        </li>
+        </ol>
       </ul>
     </nav>
   );
