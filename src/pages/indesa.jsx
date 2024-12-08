@@ -7,7 +7,7 @@ const indesa = () => {
   return (
     <div class="flex justify-center items-center">
       <div>
-        <h1>menu principal</h1>
+        <h1>EAUTPL</h1>
         <Menu />
       </div>
     </div>
