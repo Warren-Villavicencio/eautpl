@@ -1,6 +1,9 @@
 
 Proyecto: EAUTPL (Estación Agropecuaria UTPL)
 
+Aplicación desplegada en vercel
+https://eautpl.vercel.app/
+
 Nombre del estudiante: Warren Antonio Villavicencio Merino 
 
 Nombre de la empresa: Estación Agropecuaria UTPL
